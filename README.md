@@ -12,7 +12,8 @@ git clone https://github.com/NoviScl/PyTorch-Preview.git
 ```
 
 Or, if you have cloned the whole course prep repo, this repo will be a submodule. 
-You need to run (at the course prep repo root directory, not under this module directory) ```
+You need to run (at the course prep repo root directory, not under this module directory) 
+```
 git submodule update --init --recursive
 ```
 in order to get the contents of this module.
