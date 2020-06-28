@@ -2,6 +2,7 @@
 
 By: Chenglei Si 
 
+If you find any errors or have questions, raise an issue in this repo, I'll get back to you!
 
 ### Get Started 
 
