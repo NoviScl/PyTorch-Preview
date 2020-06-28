@@ -24,3 +24,15 @@ print (torch.__version__)
 ``` 
 I recommend that you install a version >= 1.0.0
 
+4. For some parts, you will need to use Jupyter Notebook. Follow [this page](https://jupyter.org/install) to install the necessary packages. Then, enter the working directory (i.e., the one you cloned), run 
+```
+jupyter notebook
+```
+You can then access the notebooks and run the interactive tutorials.
+
+### Learning Materials 
+
+**Day 1:** Read and run through `1-Intro.ipynb`
+
+### Quiz 
+
