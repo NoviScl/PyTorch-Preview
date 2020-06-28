@@ -6,10 +6,16 @@ If you find any errors or have questions, raise an issue in this repo, I'll get 
 
 ### Get Started 
 
-1. Download this repo. 
+1. Download the original repo to get the contents of this module: 
 ```
 git clone https://github.com/NoviScl/PyTorch-Preview.git
 ```
+
+Or, if you have cloned the whole course prep repo, this repo will be a submodule. 
+You need to run (at the course prep repo root directory, not under this module directory) ```
+git submodule update --init --recursive
+```
+in order to get the contents of this module.
 
 2. Create a virtual environment. Follow [this page](https://docs.python.org/3/tutorial/venv.html) to see how to do it.
 
