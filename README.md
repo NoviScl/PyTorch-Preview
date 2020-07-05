@@ -22,7 +22,7 @@ in order to get the contents of this module.
 
 3. In your virtual environment, install PyTorch. Follow [this page](https://pytorch.org/get-started/locally/) to install it. I personally recommend using
 ```
-pip3 install torch torchvision 
+pip3 install torch torchvision torchtext
 ``` 
 (I don't think there's a need to install the whole Anaconda for this course.)
 You can check whether it's installed by entering Python, and type 
