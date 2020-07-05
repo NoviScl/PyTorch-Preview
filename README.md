@@ -40,7 +40,11 @@ You can then access the notebooks and run the interactive tutorials.
 
 ### Learning Materials 
 
-**Day 1:** Read and run through `1-Intro.ipynb`
+**Day 1:** Read and run through `Day-1.ipynb`
+**Day 2:** Read and run through `Day-2.ipynb`
+**Day 3:** Read and run through `Day-3.ipynb`
+**Day 4:** Read and run through `Day-4.ipynb`
+**Day 5:** Improve the models in Day 3 and Day 4. Explore different hyper-parameters and model structures.
 
 ### Quiz 
 
