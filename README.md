@@ -52,3 +52,5 @@ You can then access the notebooks and run the interactive tutorials.
 
 ### Quiz 
 
+Read `Quiz.md` file for detailed instructions. You can either modify and submit the notebook of Day3 and Day4, or create new notebooks and write your own codes there. 
+
