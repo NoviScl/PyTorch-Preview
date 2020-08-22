@@ -14,3 +14,4 @@ A set of LaTex notes will be available here soon.
 
 ## Lab
 
+All the codes used for the lab sessions are available [here](/Lab). 
